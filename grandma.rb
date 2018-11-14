@@ -28,5 +28,6 @@ def speak_to_grandma(phrase)
     phrase == "WHAT?"
     puts "NO, NOT SINCE 1938!"
   elseif
-    phrase == ""
+    phrase == "I LOVE YOU GRANDMA!"
+    puts ""
     
