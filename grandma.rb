@@ -25,5 +25,6 @@ def speak_to_grandma(phrase)
     phrase == "WHAT DID YOU EAT TODAY?"
     puts "NO, NOT SINCE 1938!"
     esleif
-    phrase == 
+    phrase == "WHAT?"
+    puts ""
     
