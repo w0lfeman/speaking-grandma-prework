@@ -30,4 +30,7 @@ def speak_to_grandma(phrase)
   elseif
     phrase == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
+  else
+    phrase == "Hi Nana, how are you?"
+    puts ""
     
